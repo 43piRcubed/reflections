@@ -1,1 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+	this initializes reporsitory as a git repository. needed for git to recognize folder as a reporisotry and to be bale to issue git commands on files in repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	comparing staging area file with latest commit of file in repository.
