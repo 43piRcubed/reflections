@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+it is a very convenient and quick way to find differences between the 2 files.  Much easier than comparing 2 files visually.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+having access to older file versions  makes it easier to go back to a certain point in the program if it is desired to go a different direction in the program, thus avoiding re-writing a large part of the program.  Also, it makes it more effective in debugging a program should a module have worked in an earlier version over a newer version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Con is that if you don’t commit often enough the changes are to big and if something get lost there is a lot of re-work to be done. or the changes are so big that there is too big of a difference.  pro is that a commit id done when it logically applies or the version is workable, rather than automatic commits which could be saving in the middle of re-writing some code and is not workable yet.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+multiple changes across files ask fro a single commit at the same time.  It makes it easier to track files that relate to each other to have the status of each file at each commit.  Committing files separately is more work and requires more discipline.  it is also more difficult to relate the different versions for each file to each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log gives the different commits, while git diff provides the differences between the commits
+
+How might using version control make you more confident to make changes that could break something?
+
+with version control it is easy and fast to revert to an older version that worked and identify the bug that was introduced.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+?
