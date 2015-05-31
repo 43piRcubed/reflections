@@ -15,3 +15,5 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
     diagrams show master branch and branches of of it in different color
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	merging two branches creates a new version that includes changes on each branch.  This makes it easy to combine work from different people/teams. the diagram makes clear where the branches a branching off and where they are merged. so it easy to follow the history.
